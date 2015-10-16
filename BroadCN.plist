@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.9.8:4455/BroadCN.ipa</string>
+                    <string>http://61.187.123.138:5678/BroadCN/BroadCN.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.168.9.8:4455/full-size-image.png</string>
+                    <string>http://61.187.123.138:5678/BroadCN/full-size-image.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.168.9.8:4455/display-image.png</string>
+                    <string>http://61.187.123.138:5678/BroadCN/display-image.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>用中电子档案</string>
+                <string>鐢ㄤ腑鐢靛瓙妗ｆ</string>
                 <key>title</key>
-                <string>用中电子档案</string>
+                <string>鐢ㄤ腑鐢靛瓙妗ｆ</string>
             </dict>
         </dict>
     </array>
